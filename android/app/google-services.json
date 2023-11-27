@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "335977392113",
+    "project_id": "mychat-f4b77",
+    "storage_bucket": "mychat-f4b77.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335977392113:android:b8d1cf7ff3e1193ec1c650",
+        "android_client_info": {
+          "package_name": "com.example.nansu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwMalAU0eJQfnB4SA4V5lBsNyTxEx3kc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
